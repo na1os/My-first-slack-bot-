@@ -1,9 +1,9 @@
 # My-first-slack-bot-
 
 
-commands:
-add [task]
-list
-done
-delete
-stats
+commands:                                    
+add [task]                                
+list                                  
+done                                                        
+delete                                                      
+stats                                      
